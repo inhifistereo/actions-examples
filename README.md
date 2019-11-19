@@ -1,3 +1,3 @@
 # GitHub Actions Examples
 
-This repo contains Action yaml examples I've compiled. Feel free to fork or add. 
+This repo contains Actions yaml examples I've compiled. Feel free to fork or add. 
